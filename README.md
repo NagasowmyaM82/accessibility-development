@@ -5,11 +5,14 @@
 
 3.Install npm i -D testcafe axe-core @testcafe-community/axe
 
-4.create .testcaferc.json file in that include {
+4.create .testcaferc.json file in that include:
+
+{
     "clientScripts": [{ "module": "axe-core/axe.min.js" }]
 }
 
 5.Create index.js file and include the following code:
+
 import { runAxe } from '@testcafe-community/axe';
 import { createHtmlReport } from 'axe-html-reporter';
 
