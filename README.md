@@ -42,7 +42,11 @@ test('Automated accessibility testing', async (t) => {
 6.Run npx testcafe chrome index.js
 
 7.Results:
+paytm url: 
+
 <img width="946" alt="image" src="https://user-images.githubusercontent.com/77691213/217458662-855aa188-6092-4599-82e3-b2d649b9167e.png">
 
+
+microsoft url:
 <img width="929" alt="image" src="https://user-images.githubusercontent.com/77691213/217458774-9d8b3cf6-db9b-4dca-b920-107f9f131329.png">
 
